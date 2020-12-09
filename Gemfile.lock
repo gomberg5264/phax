@@ -127,7 +127,7 @@ GEM
     pony (1.11)
       mail (>= 2.0)
     public_suffix (2.0.5)
-    puma (3.10.0)
+    puma (3.12.6)
     rack (2.0.3)
     rack-protection (2.0.0)
       rack
@@ -252,7 +252,7 @@ DEPENDENCIES
   phaxio
   phonelib
   pony
-  puma (~> 3.7)
+  puma (~> 3.12)
   rails (~> 5.1.3)
   rspec-rails
   sass-rails (~> 5.0)
